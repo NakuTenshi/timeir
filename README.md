@@ -1,6 +1,6 @@
 # timeir
 
-<img src="https://github.com/NakuTenshi/timeir/blob/main/asset/exmaple.png" width="550" height="370">
+<img src="https://github.com/NakuTenshi/timeir/blob/main/asset/exmaple.png">
 
 
 A simple CLI tool that displays the current time and date in both **Jalali (Persian)** and **Gregorian** calendars, along with a 3-month Jalali calendar view.
